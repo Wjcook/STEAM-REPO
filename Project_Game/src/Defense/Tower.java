@@ -1,6 +1,7 @@
 package Defense;
 
 
+
 public class Tower {
 	private String name;
 	private int power;
