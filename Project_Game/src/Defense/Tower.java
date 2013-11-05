@@ -87,4 +87,5 @@ public class Tower {
 		this.upgradecost = upgradecost;
 	}
 
+	
 }
